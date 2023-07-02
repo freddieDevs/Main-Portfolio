@@ -1,0 +1,1 @@
+This is my portfolio for showcasing my projects, expertise and how far off in development and software engineering i have covered so far!!
