@@ -25,6 +25,11 @@ const works = [
     link: 'https://vercel.com',
     description: 'The project is an e-commerce app done with redux as the state management store. The project was a tutorial on learning react and it also uses bare css styling.',
     lessons: 'I learnt how to create global variables for styling using CSS alone. The project was responsive in a really simple way. There was use of custom svg icons as another option for icons. The project had steep learning curve with the use of the redux js toolkit that has all hooks available for creating a store and the thunks and slices. i got to learn the useSelector hook to access the redux state and useDispatch hook to access the dispatch functions.'
+  },
+  {
+    title: "Fullstack(MERNG)-Chatting App",
+    description: "The app is tutorial-based and is a fullstack web app that utilizes MongoDB, Apollo Server, mongoose and Node Js on the backend. In the frontend it uses React and apollo client. ",
+    lessons: "From the project i learnt how to set up and connect to the database from the backend and frontend, instantiating apollo server and starting it, using schema and model from mongoose to create models from schema and creating type definitions and resolvers to create resolvers to handle logic from the backend. In the frontend, using Apollo Client i learnt how to use a context proviider to handle authentication logic. i also learnt to create custom hooks to handle form logic  such as onSubmit and onChange. I also got to use graphql to perform queries and using the InMemoryCache by Apollo Client. I got use the ApolloLink to create an authMiddleware that adds headers obtained from tokens to request to validate backend access. It was indeed a knowledge-rich project full of challenges as most of the code used in the video needed to be updated to match current trends. But all in all it was a great tutorial to undertake."
   }
 ];
 
